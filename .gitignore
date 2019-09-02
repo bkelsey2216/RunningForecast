@@ -1,0 +1,9 @@
+# Project files
+internal/config.py
+
+# Build files
+*.pyc
+
+# Large data files
+data/
+samples/
